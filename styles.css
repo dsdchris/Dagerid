@@ -1,0 +1,20 @@
+/* styles.css */
+
+/* Para listas de historial de progreso */
+.scrollable {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+/* Ajuste de traslape para el menú móvil */
+#mobile-menu {
+  z-index: 50;
+}
+
+/* Cuando el cuerpo está en modo oscuro */
+.dark body {
+  background-color: #121212;
+  color: #E0E0E0;
+}
+
+/* Personalizaciones adicionales (si necesitas más) **/
